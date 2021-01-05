@@ -3,6 +3,10 @@ Angular Treeview
 
 Pure [AngularJS](http://www.angularjs.org) based tree menu directive.
 
+I badly need this package in my current project which is the reason why forked this from https://github.com/eu81273/angular.treeview
+
+All credit goes to the original author.
+
 [![ScreenShot](https://github.com/eu81273/angular.treeview/raw/master/img/preview.png)](http://jsfiddle.net/eu81273/8LWUc/)
 
 ## Installation
